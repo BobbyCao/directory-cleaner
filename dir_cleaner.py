@@ -15,6 +15,8 @@ audio_dir = "C:\\Users\\bob1\\Desktop\\music"
 video_dir = "C:\\Users\\bob1\\Desktop\\videos"
 image_dir = "C:\\Users\\bob1\\Desktop\\images"
 document_dir = "C:\\Users\\bob1\\Desktop\\docs"
+
+# TODO: add implementation for files not specified above
 misc_dir = "C:\\Users\\bob1\\Desktop\\misc"
 
 # * Below are supported file extension names
